@@ -1,0 +1,25 @@
+{
+    "name": "haris-custom-light-theme-1",
+    "displayName": "Haris Custom Light Theme 1",
+    "description": "",
+    "publisher": "harisAbdullah",
+    "author": {
+        "name": "harisAbdullah"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Haris Custom Light Theme 1",
+                "uiTheme": "vs",
+                "path": "./themes/Haris Custom Light Theme 1-color-theme.json"
+            }
+        ]
+    }
+}
